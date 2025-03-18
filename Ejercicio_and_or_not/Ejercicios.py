@@ -1,5 +1,3 @@
-
-
 valor1 = 4 == 5 
 valor2 = 4 != 5
 valor3 = 4 <  5
